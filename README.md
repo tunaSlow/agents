@@ -2,7 +2,7 @@
 
 ### 6 week journey to code and deploy AI Agents with OpenAI Agents SDK, CrewAI, LangGraph, Google ADK, Pydantic AI and MCP
 
-![Autonomous Agent](assets/ai.jpg)
+![Autonomous Agent](assets/ai.jpeg)
 
 _If you're looking at this in Cursor, please right click on the filename in the Explorer on the left, and select "Open preview", to view the formatted version._
 
