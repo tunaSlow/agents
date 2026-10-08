@@ -75,3 +75,4 @@ When you change a file (for example improving `summary.txt`), upload the new ver
 - **The build fails.** Check the logs on the service page. The most common cause is a missing file, so confirm all 7 files are in the GitHub repo.
 - **The app builds but the page shows an error.** Usually a missing or mistyped environment variable. Check all five under the **Environment** tab, then use **Manual Deploy** to restart.
 - **No Pushover notifications.** Check `PUSHOVER_USER` and `PUSHOVER_TOKEN` in the Environment tab, and remember the user key starts with `u` and the token starts with `a`.
+
